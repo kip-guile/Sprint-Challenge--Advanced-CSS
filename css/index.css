@@ -176,7 +176,7 @@ p {
   margin: 0 auto;
 }
 .navigation nav {
-  width: 60%;
+  width: 50%;
   margin: 0 auto;
   padding: 1em;
 }
@@ -237,6 +237,18 @@ footer {
 }
 .home .walk .walk-text p {
   margin-bottom: 26px;
+}
+.home .walk .walk-text .btn {
+  color: white;
+  background-color: #23293B;
+  width: 30%;
+  text-align: center;
+  font-size: 2em;
+  border-radius: 0.3em;
+  padding: 0.5em;
+}
+.home .walk .walk-text .btn:hover {
+  background-color: #ff00ff;
 }
 .home .walk .walk-img {
   width: 46%;
